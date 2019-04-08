@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-extentsreport-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-html-0.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/cucumber-reporting-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/datatable-1.1.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/datatable-dependencies-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/freemarker-2.3.28.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/selenium driver/OLD jars CUCUMBER REPORTS/selenium-java-3.13.0/client-combined-3.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
